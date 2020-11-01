@@ -1,0 +1,14 @@
+Options +FollowSymLinks
+Options -Indexes
+RewriteEngine on
+RewriteBase /dubaiataseligi/
+RewriteCond %{HTTP_HOST} ^www.tourismturkey.ae [NC]
+RewriteRule ^(.*)$ http://tourismturkey.ae/$1 [L,R=301]
+RewriteCond $1 !^(index\.php|img|\.jpg|css|js|robots\.txt|favicon\.ico)
+RewriteCond %{REQUEST_FILENAME} !-f  
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond ^www.tourismturkey.ae$ [NC]
+#RewriteRule ^(.*)$ http://tourismturkey.ae/index.php?q=$1 [L,QSA]
+RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
+
+

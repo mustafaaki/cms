@@ -1,0 +1,79 @@
+@CHARSET "UTF-8";
+body.layout-switch{ background-color: #ffffff;background-repeat: ;background-position: ;background-size: ;background-attachment : ;
+								}
+h1{color:#10090a ; font-size: 45px; font-family:Helvetica Neue, Helvetica, Arial, sans-serif;  font-weight: 400;  line-height: 50px;}h2{color:#10090a ; font-size: 40px; font-family:Helvetica Neue, Helvetica, Arial, sans-serif;  font-weight: 400;  line-height: 45px;}h3{color:#10090a ; font-size: 24px; font-family:Helvetica Neue, Helvetica, Arial, sans-serif;  font-weight: 400;  line-height: 30px;}h4{color:#10090a ; font-size: 18px; font-family:Helvetica Neue, Helvetica, Arial, sans-serif;  font-weight: 400;  line-height: 25px;}h5{color:#10090a ; font-size: 14px; font-family:Helvetica Neue, Helvetica, Arial, sans-serif;  font-weight: 400;  line-height: 25px;}h6{color:#10090a ; font-size: 12px; font-family:Helvetica Neue, Helvetica, Arial, sans-serif;  font-weight: 400;  line-height: 23px;}.page-title, .text-destination h1{color:#ffffff ; font-size: 40px; font-family:dk_cinnabar;  font-weight: 500;  line-height: 45px;}.custom-title .elementor-heading-title, .layer-3 h1, .wrap-intro span, #safaria-banner-video .title-video h2{font-family:dk_cinnabar !important;}.page-title{font-size: px; line-height: 40px;}.widget-title, .widgettitle, #content-bottom h3, .elementor-widget h5{color:#10090a ; font-size: 40px; font-family:dry_brush;  font-weight: 400;  line-height: 45px;}.notfound-title, .custom-title2, .custom-title2.elementor-widget-heading .elementor-heading-title{font-family:dry_brush; }body{color:#10090a ; font-size: 14px; font-family:Helvetica Neue, Helvetica, Arial, sans-serif;  font-weight: 400;  line-height: 25px;}.widget-area ul li a, .elementor-widget ul li a, h2.entry-title a{color:#10090a ;}.navbar-brand-safaria .logo-text h1 a, .logotextpopup a, .logotextpopup a:hover{font-size: 24px;  line-height: 26px;  font-weight: normal; font-family: dk_cinnabar;}.navbar-brand-safaria .logo-text h1, .navbar-brand-safaria .logo-text h1 a{color:#ffffff}#menu a, #menu_right a, .safaria-popup .desctext, .show-menu{color: #ffffff;  font-size: 14px;  line-height: 22px;  font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-weight:400}.page-header{
+			background: url(css/themes/safaria/images/wood.jpg) no-repeat center center;
+			background-size: cover;
+			background-attachment: fixed;
+			height: px;
+			}.safaria-popup #menu li.addcol{width:29.8%}.safaria-popup #menu li.addcol{margin-right:26px}.safaria-popup #menu li.addcol:nth-child(3n){margin-right:0}.page-header-breadcrumb-container{margin-top:200px}a, .testi-name, .cdo-team-section h5, .widget-area .star-rating,.safaria-product-button .yith-wcwl-add-to-wishlist a, .safaria-product-button .yith-wcwl-add-to-wishlist span, .safaria-product-button .yith-wcwl-add-to-wishlist i{color:#ff508e}a:hover{color:#ff619f}.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message{border-color:#ff508e}#menu_right .sub-menu, .safaria-dropdown-cart{border-color:#ed3e7c}.badge-custom, #scrollUp, .owl-theme .owl-controls .owl-buttons div, .widget-area .woocommerce.widget_shopping_cart, .woocommerce span.onsale, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+		.reset_variations, .single-product .entry-summary .yith-wcwl-add-to-wishlist a, .single-product .entry-summary a.compare, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,
+		#menu_right .sub-menu,.safaria-dropdown-cart, .yith-wcwl-share ul li a{background:#ff508e}#scrollUp:hover, .owl-theme .owl-controls .owl-buttons div:hover,
+		.reset_variations:hover,
+.single-product .entry-summary .yith-wcwl-add-to-wishlist a:hover,
+.single-product .entry-summary a.compare:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce button.button:hover .woocommerce input.button:hover,
+.woocommerce input.button:hover{background:rgba(255, 80, 142, .85)}input[type="submit"], input[type="button"], button, .btn:not(.btn-blue):not(.btn-green):not(.btn-purple):not(.btn-pink):not(.btn-orange){background:#ed3e7c}input[type="submit"]:hover, input[type="button"]:hover, button:hover, .btn:hover:not(.btn-blue):not(.btn-green):not(.btn-purple):not(.btn-pink):not(.btn-orange){background:#db2c6a}.resp-tabs-list li:hover, h4.resp-accordion:hover, h4.resp-accordion.resp-tab-active, h4.resp-accordion.resp-tab-active:hover, h4.resp-accordion.resp-tab-active:active, .resp-tabs-list li.resp-tab-active, .resp-tabs-list li.resp-tab-active:hover, .resp-tabs-list li.resp-tab-active:active,.cdo-toggle .ui-accordion-header-active, .cdo-accordion .ui-accordion-header-active, .cdo-toggle.bgtransparent .ui-accordion-header-active, .cdo-accordion.bgtransparent .ui-accordion-header-active,.cdo-dropcap.square, .cdo-dropcap.round{background:#ff508e; border-color:#ff508e}#footer{background:#222222; color:#ffffff}#footer{
+			background:#222222 url(css/themes/safaria/images/wood.jpg)  ;
+			background-size: ;
+			background-attachment: ;
+			}#footer ul li a, #footer #wp-calendar a, #footer a, #footer .popular-date{color:#ffffff}
+
+
+.languagepicker {
+	background-color: #FFF;
+	display: inline-block;
+	padding: 0;
+	height: 40px;
+	overflow: hidden;
+	transition: all .3s ease;
+	margin: 0 50px 10px 0;
+	vertical-align: top;
+	float: left;
+}
+
+.languagepicker:hover {
+	/* don't forget the 1px border */
+	height: 81px;
+}
+
+.languagepicker a{
+	color: #000;
+	text-decoration: none;
+}
+
+.languagepicker li {
+	display: block;
+	padding: 0px 20px;
+	line-height: 40px;
+	border-top: 1px solid #EEE;
+}
+
+.languagepicker li:hover{
+	background-color: #EEE;
+}
+
+.languagepicker a:first-child li {
+	border: none;
+	background: #FFF !important;
+}
+
+.languagepicker li img {
+	margin-right: 5px;
+}
+
+.roundborders {
+	border-radius: 5px;
+}
+
+.large:hover {
+	/* 
+	don't forget the 1px border!
+	The first language is 40px heigh, 
+	the others are 41px
+	*/
+	height: 245px;
+}

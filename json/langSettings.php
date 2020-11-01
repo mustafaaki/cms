@@ -1,0 +1,1 @@
+{"lang":{"tr":{"name":"Türkçe","flag":"tr.png","default":"n"},"en":{"name":"English","flag":"en.png","default":"y"},"arb":{"name":"العربية","flag":"arb.png","default":"n"}}}
